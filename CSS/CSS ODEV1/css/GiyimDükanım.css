@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(228, 237, 241);
+}
+.header-1{
+    color: rgb(83, 81, 82);
+    font-size: 50px;
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 30px;
+}
+.a-size
+{
+    color:darkblue;
+    font-size: 30px;
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 30px;
+}
+h2, h3{
+    color:brown;
+    font-size: 30px;
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 30px;
+}
+#firstp{
+    font-size: 20px;
+    text-align: center;
+}
+#lastp{
+    text-align: center;
+    font-size: 20px;
+}
+p{
+    font-size: 20px;
+}
+.header-3
+{
+    text-align: center;
+    font-size: 20px;
+    list-style-position: inside;
+}
+.img
+{
+    margin-left: 550px;
+    height: 350px; 
+    margin-top: 30px;
+}
