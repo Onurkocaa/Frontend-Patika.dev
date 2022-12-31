@@ -1,0 +1,72 @@
+body{
+    background-color: white;
+}
+.container{
+    width: 1210px;
+    height: 400px;
+    margin: 20px auto 0 ;
+}
+.logo{
+    margin: 0 32%;
+}
+img[alt="Google"] {
+    width: 351px;
+    height: 113px; 
+}
+.search{
+    background-color: rgb(236, 236, 236);
+    text-align: center;
+    padding: 2px;
+    padding-bottom: 20px;
+    max-width: 100%;
+    height: auto;
+    font-size: 20px;
+    padding-bottom: 4px;
+}
+input[id="search-text"]{ 
+    margin-bottom: 4px;
+    height: 18px;
+    width: 400px;
+} 
+input[id="search-submit"]  
+{
+    font-size: 15px;
+}
+.left-bar{
+    float: left;
+    padding-top: 5px;
+    width: 40%;
+    height: 80px;
+    background-color: rgb(119, 218, 208);
+    margin-top: 2px;
+    margin-right: 2px;
+    text-align: center;   
+}
+.center-bar{
+    float: left;
+    width: 19.5%;
+    height: 80px;
+    background-color: rgb(112, 204, 194);
+    margin-top: 2px;
+    margin-right: 2px;
+    text-align: center;
+    padding-top: 5px;
+}
+.right-bar{
+    background-color: rgb(98, 179, 170);
+    width: 40%;
+    height: 80px;
+    float: left;
+    margin-top: 2px;
+    text-align: center;
+    padding-top: 5px;
+}
+#mail-text{
+    height: 14px;
+    width: 180px;
+}
+.footer{
+    margin-top: 100px;
+    text-align: center;
+    font-size: medium;
+}
