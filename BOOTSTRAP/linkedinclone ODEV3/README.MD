@@ -6,6 +6,5 @@ Patika platformundaki bootstrap dersinin üçüncü ödevi.
 
 
 # GÖRSELLER
-![Picture](https://imgyukle.com/i/JeYxWn)
-![Picture](https://imgyukle.com/i/JeYujh)
-![Picture](https://imgyukle.com/i/JeYSVM)
+![Picture](https://imgyukle.com/f/2023/01/07/JeYxWn.jpeg)
+![Picture](https://imgyukle.com/f/2023/01/07/JeYujh.jpeg)
